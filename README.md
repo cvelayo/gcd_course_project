@@ -1,4 +1,5 @@
-Files in this repository
+# Files in this repository
+
 1. README.md - this file which describes the repository
 2. codebook.md - Markdown file which describes how the data were cleaned
 3. run_analysis.R - R script which loaded the data and generated the output file
